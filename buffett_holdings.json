@@ -1,0 +1,306 @@
+[
+    {
+        "Stock": "AAPL - Apple Inc.",
+        "Shares": "300,000,000",
+        "Reported Price": "$250.42",
+        "Value": "$75,126,000,000",
+        "Recent Price": "$197.22",
+        "Change %": "-21.24%"
+    },
+    {
+        "Stock": "AXP - American Express",
+        "Shares": "151,610,700",
+        "Reported Price": "$296.79",
+        "Value": "$44,996,540,000",
+        "Recent Price": "$251.31",
+        "Change %": "-15.32%"
+    },
+    {
+        "Stock": "BAC - Bank of America Corp.",
+        "Shares": "680,233,587",
+        "Reported Price": "$43.95",
+        "Value": "$29,896,267,000",
+        "Recent Price": "$37.40",
+        "Change %": "-14.90%"
+    },
+    {
+        "Stock": "KO - Coca Cola Co.",
+        "Shares": "400,000,000",
+        "Reported Price": "$62.26",
+        "Value": "$24,904,000,000",
+        "Recent Price": "$73.07",
+        "Change %": "17.36%"
+    },
+    {
+        "Stock": "CVX - Chevron Corp.",
+        "Shares": "118,610,534",
+        "Reported Price": "$144.84",
+        "Value": "$17,179,549,000",
+        "Recent Price": "$138.00",
+        "Change %": "-4.72%"
+    },
+    {
+        "Stock": "OXY - Occidental Petroleum",
+        "Shares": "264,178,414",
+        "Reported Price": "$49.41",
+        "Value": "$13,053,055,000",
+        "Recent Price": "$39.82",
+        "Change %": "-19.41%"
+    },
+    {
+        "Stock": "MCO - Moody's Corp.",
+        "Shares": "24,669,778",
+        "Reported Price": "$473.37",
+        "Value": "$11,677,933,000",
+        "Recent Price": "$424.62",
+        "Change %": "-10.30%"
+    },
+    {
+        "Stock": "KHC - Kraft Heinz Co.",
+        "Shares": "325,634,818",
+        "Reported Price": "$30.71",
+        "Value": "$10,000,245,000",
+        "Recent Price": "$29.46",
+        "Change %": "-4.07%"
+    },
+    {
+        "Stock": "CB - Chubb Limited",
+        "Shares": "27,033,784",
+        "Reported Price": "$276.30",
+        "Value": "$7,469,435,000",
+        "Recent Price": "$285.47",
+        "Change %": "3.32%"
+    },
+    {
+        "Stock": "DVA - DaVita HealthCare Partners",
+        "Shares": "36,095,570",
+        "Reported Price": "$149.55",
+        "Value": "$5,398,092,000",
+        "Recent Price": "$140.00",
+        "Change %": "-6.39%"
+    },
+    {
+        "Stock": "KR - Kroger Co.",
+        "Shares": "50,000,000",
+        "Reported Price": "$61.15",
+        "Value": "$3,057,500,000",
+        "Recent Price": "$71.22",
+        "Change %": "16.47%"
+    },
+    {
+        "Stock": "VRSN - Verisign Inc.",
+        "Shares": "13,271,457",
+        "Reported Price": "$206.96",
+        "Value": "$2,746,661,000",
+        "Recent Price": "$246.67",
+        "Change %": "19.19%"
+    },
+    {
+        "Stock": "SIRI - SiriusXM Holdings Inc",
+        "Shares": "117,468,573",
+        "Reported Price": "$22.80",
+        "Value": "$2,678,283,000",
+        "Recent Price": "$20.33",
+        "Change %": "-10.83%"
+    },
+    {
+        "Stock": "V - Visa Inc.",
+        "Shares": "8,297,460",
+        "Reported Price": "$316.04",
+        "Value": "$2,622,329,000",
+        "Recent Price": "$330.50",
+        "Change %": "4.58%"
+    },
+    {
+        "Stock": "AMZN - Amazon.com Inc.",
+        "Shares": "10,000,000",
+        "Reported Price": "$219.39",
+        "Value": "$2,193,900,000",
+        "Recent Price": "$173.09",
+        "Change %": "-21.10%"
+    },
+    {
+        "Stock": "MA - Mastercard Inc.",
+        "Shares": "3,986,648",
+        "Reported Price": "$526.57",
+        "Value": "$2,099,249,000",
+        "Recent Price": "$518.00",
+        "Change %": "-1.63%"
+    },
+    {
+        "Stock": "AON - Aon Plc",
+        "Shares": "4,100,000",
+        "Reported Price": "$359.16",
+        "Value": "$1,472,556,000",
+        "Recent Price": "$368.40",
+        "Change %": "2.57%"
+    },
+    {
+        "Stock": "COF - Capital One Financial",
+        "Shares": "7,450,000",
+        "Reported Price": "$178.32",
+        "Value": "$1,328,484,000",
+        "Recent Price": "$162.82",
+        "Change %": "-8.69%"
+    },
+    {
+        "Stock": "STZ - Constellation Brands",
+        "Shares": "5,624,324",
+        "Reported Price": "$221.00",
+        "Value": "$1,242,976,000",
+        "Recent Price": "$186.63",
+        "Change %": "-15.55%"
+    },
+    {
+        "Stock": "ALLY - Ally Financial Inc.",
+        "Shares": "29,000,000",
+        "Reported Price": "$36.01",
+        "Value": "$1,044,289,000",
+        "Recent Price": "$31.62",
+        "Change %": "-12.19%"
+    },
+    {
+        "Stock": "C - Citigroup Inc.",
+        "Shares": "14,639,502",
+        "Reported Price": "$70.39",
+        "Value": "$1,030,475,000",
+        "Recent Price": "$63.34",
+        "Change %": "-10.02%"
+    },
+    {
+        "Stock": "DPZ - Dominos Pizza Inc.",
+        "Shares": "2,382,000",
+        "Reported Price": "$419.76",
+        "Value": "$999,868,000",
+        "Recent Price": "$466.81",
+        "Change %": "11.21%"
+    },
+    {
+        "Stock": "TMUS - T-Mobile US Inc.",
+        "Shares": "4,350,000",
+        "Reported Price": "$220.73",
+        "Value": "$960,176,000",
+        "Recent Price": "$260.15",
+        "Change %": "17.86%"
+    },
+    {
+        "Stock": "LLYVK - Liberty Media Corp. Series C Live",
+        "Shares": "10,917,661",
+        "Reported Price": "$68.06",
+        "Value": "$743,056,000",
+        "Recent Price": "$68.48",
+        "Change %": "0.62%"
+    },
+    {
+        "Stock": "CHTR - Charter Communications",
+        "Shares": "1,991,759",
+        "Reported Price": "$342.77",
+        "Value": "$682,715,000",
+        "Recent Price": "$338.92",
+        "Change %": "-1.12%"
+    },
+    {
+        "Stock": "FWONK - Liberty Media Corp Formula One Series C",
+        "Shares": "6,801,360",
+        "Reported Price": "$92.66",
+        "Value": "$630,213,000",
+        "Recent Price": "$82.79",
+        "Change %": "-10.65%"
+    },
+    {
+        "Stock": "LPX - Louisiana-Pacific Corp.",
+        "Shares": "5,664,793",
+        "Reported Price": "$103.55",
+        "Value": "$586,589,000",
+        "Recent Price": "$84.14",
+        "Change %": "-18.74%"
+    },
+    {
+        "Stock": "NU - Nu Holdings Ltd",
+        "Shares": "40,180,168",
+        "Reported Price": "$10.36",
+        "Value": "$416,267,000",
+        "Recent Price": "$11.04",
+        "Change %": "6.56%"
+    },
+    {
+        "Stock": "LLYVA - Liberty Media Corp. Series A Live",
+        "Shares": "4,986,588",
+        "Reported Price": "$66.56",
+        "Value": "$331,908,000",
+        "Recent Price": "$67.50",
+        "Change %": "1.41%"
+    },
+    {
+        "Stock": "POOL - Pool Corp.",
+        "Shares": "598,689",
+        "Reported Price": "$340.94",
+        "Value": "$204,117,000",
+        "Recent Price": "$306.00",
+        "Change %": "-10.25%"
+    },
+    {
+        "Stock": "HEI.A - HEICO Corp. CL A",
+        "Shares": "1,049,687",
+        "Reported Price": "$186.08",
+        "Value": "$195,326,000",
+        "Recent Price": "$196.36",
+        "Change %": "5.52%"
+    },
+    {
+        "Stock": "NVR - NVR Inc.",
+        "Shares": "11,112",
+        "Reported Price": "$8178.91",
+        "Value": "$90,884,000",
+        "Recent Price": "$7189.17",
+        "Change %": "-12.10%"
+    },
+    {
+        "Stock": "DEO - Diageo ADR",
+        "Shares": "227,750",
+        "Reported Price": "$127.13",
+        "Value": "$28,954,000",
+        "Recent Price": "$109.56",
+        "Change %": "-13.82%"
+    },
+    {
+        "Stock": "JEF - Jefferies Financial Group Inc.",
+        "Shares": "433,558",
+        "Reported Price": "$78.40",
+        "Value": "$33,991,000",
+        "Recent Price": "$42.82",
+        "Change %": "-45.38%"
+    },
+    {
+        "Stock": "LEN.B - Lennar Corp. CL B",
+        "Shares": "152,572",
+        "Reported Price": "$132.15",
+        "Value": "$20,162,000",
+        "Recent Price": "$99.49",
+        "Change %": "-24.71%"
+    },
+    {
+        "Stock": "LILA - Liberty LiLAC Group A",
+        "Shares": "2,630,792",
+        "Reported Price": "$6.36",
+        "Value": "$16,732,000",
+        "Recent Price": "$5.36",
+        "Change %": "-15.72%"
+    },
+    {
+        "Stock": "BATRK - Atlanta Braves Holdings Inc. Series C",
+        "Shares": "223,645",
+        "Reported Price": "$38.26",
+        "Value": "$8,556,000",
+        "Recent Price": "$38.70",
+        "Change %": "1.15%"
+    },
+    {
+        "Stock": "LILAK - Liberty LiLAC Group C",
+        "Shares": "1,284,020",
+        "Reported Price": "$6.34",
+        "Value": "$8,141,000",
+        "Recent Price": "$5.36",
+        "Change %": "-15.46%"
+    }
+]

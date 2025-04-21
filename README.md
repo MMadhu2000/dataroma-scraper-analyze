@@ -16,3 +16,8 @@ See `requirements.txt`.
 
 ```bash
 python buffett_scraper.py
+
+## Insights
+
+```bash
+python Insights.ipynb

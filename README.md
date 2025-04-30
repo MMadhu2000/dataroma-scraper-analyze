@@ -55,13 +55,14 @@ streamlit run dashboard.py
 Sidebar Controls
 Filters Screenshot ![image](https://github.com/user-attachments/assets/5009ae0c-2255-4421-a9dc-e1f8adc85ce4)
 
+💡 Features
+✅ User Controls
+Select sectors from the dropdown menu
 
-Select sectors from dropdown
+Adjust % change range using the interactive slider
 
-Adjust % change range using slider
-
-Tab Navigation
-Switch between four analysis sections:
+🧭 Tab Navigation
+Easily switch between four key analysis sections:
 
 Portfolio Overview
 
@@ -71,13 +72,12 @@ Risk & Sector Exposure
 
 New Insights
 
-Interactive Elements
+📊 Interactive Elements
+Hover over charts to view detailed values
 
-Hover over charts for detailed values
+Click legend items to toggle data visibility
 
-Click legend items to toggle visibility
-
-Use plot controls to zoom/pan
+Use plot controls to zoom and pan across visualizations
 
 📸 Screenshots
 
